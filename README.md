@@ -1,2 +1,1 @@
-# learing-git
-learing basic git
+#Huong dan Git co ban
